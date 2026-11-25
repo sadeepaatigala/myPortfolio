@@ -2,7 +2,7 @@
 
 import { Box, Typography, Button, Avatar } from '@mui/material';
 import Particles from './Particles';
-import profilePic from './profile.jpg'; // Import your image
+import profilePic from './Profile2.jpg'; // Import your image
 
 export default function Hero() {
   const scrollToSection = () => {

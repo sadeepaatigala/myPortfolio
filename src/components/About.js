@@ -24,7 +24,7 @@ export default function About() {
           variant="body1"
           sx={{ mb: 2, textAlign: 'justify' }}
         >
-          I&apos;m a passionate undergraduate student pursuing BSc. Information
+          I&apos;m a passionate Graduate in BSc. Information
           Technology at Sri Lanka Institute of Information Technology (SLIIT).
           With hands-on experience as a Software Developer Intern at AASL and a
           portfolio of individual and academic group projects, I&apos;m dedicated
