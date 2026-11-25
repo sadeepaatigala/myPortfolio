@@ -18,7 +18,7 @@ export default function Footer() {
               About
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              Passionate software developer and BSc. IT student at SLIIT, dedicated to creating innovative solutions and learning cutting-edge technologies.
+              Passionate software developer and BSc. IT Graduate at SLIIT, dedicated to creating innovative solutions and learning cutting-edge technologies.
             </Typography>
           </Grid>
           <Grid item xs={12} md={3}>

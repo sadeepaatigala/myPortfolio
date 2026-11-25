@@ -46,7 +46,7 @@ export default function Hero() {
           Software Developer | Problem Solver | Tech Enthusiast
         </Typography>
         <Typography variant="h6" sx={{ mb: 4, mt: 1, animation: 'fadeInUp 1s ease forwards 0.9s' }}>
-          BSc. Information Technology Student at SLIIT
+          BSc. Information Technology Graduate at SLIIT
         </Typography>
         <Button
           variant="outlined"
