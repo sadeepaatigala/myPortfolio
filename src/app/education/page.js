@@ -17,7 +17,8 @@ export default function Education() {
           <TimelineItem
             title="G.C.E. Advanced Level"
             subtitle="Physical Science Stream with ICT"
-            description="Mayurapada Central College, Narammala. <br> 2020. <br> ICT - C | Physics - S | Mathematics - S | General English - C"
+            description="Mayurapada Central College, Narammala - 2020.
+            ICT - C | Physics - S | Mathematics - S | General English - C"
           />
       </Box>
     </Box>
