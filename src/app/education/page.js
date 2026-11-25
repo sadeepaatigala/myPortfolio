@@ -11,7 +11,7 @@ export default function Education() {
           <TimelineItem
             title="BSc. Information Technology"
             subtitle="Sri Lanka Institute of Information Technology (SLIIT)"
-            description="I am a IT Graduate, focusing on software development, database management, cloud computing, IoT, and system analysis. I am actively engaged in both theoretical learning and practical project development"
+            description="I am an IT Graduate, focusing on software development, database management, cloud computing, IoT, and system analysis. I am actively engaged in both theoretical learning and practical project development"
           />
       </Box>
     </Box>

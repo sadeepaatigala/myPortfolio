@@ -15,6 +15,13 @@ export default function Experience() {
 Gained hands-on experience in full-stack software development by working on real-world projects, including web and desktop applications. Contributed to designing and developing server-side systems, front-end dashboards, real-time media sharing solutions, and applications for video recording and playback. Collaborated with the IT team to implement efficient, scalable, and secure software solutions while learning industry best practices in software development and system integration
             </>   }
            />
+          
+           <TimelineItem
+            title="Software Engineering Intern"
+            subtitle="hSenid Business Solutions PLC"
+            description={<> <b>Software Engineering Intern - hSenid Business Solutions PLC | 6 Months </b> 
+Gained hands-on experience in enterprise software development by contributing to the development and maintenance of HR Information Systems (HRIS). Worked on developing and enhancing software features using C# and ASP.NET within an Agile (Scrum) environment. Participated in debugging, testing, and performance optimization to improve application quality and reliability. Collaborated with cross-functional teams throughout sprint planning, development, and code review processes while gaining practical experience in enterprise-level software engineering practices.</>}
+           />
       </Box>
     </Box>
   );

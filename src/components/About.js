@@ -24,12 +24,13 @@ export default function About() {
           variant="body1"
           sx={{ mb: 2, textAlign: 'justify' }}
         >
-          I&apos;m a passionate Graduate in BSc. Information
-          Technology at Sri Lanka Institute of Information Technology (SLIIT).
-          With hands-on experience as a Software Developer Intern at AASL and a
-          portfolio of individual and academic group projects, I&apos;m dedicated
-          to creating innovative solutions and continuously learning new
-          technologies.
+          I am an Information Technology graduate with a BSc (Hons) in Information Technology 
+          from the Sri Lanka Institute of Information Technology (SLIIT). 
+          With hands-on experience as a Software Engineering Intern at hSenid Business Solutions PLC 
+          and a portfolio of individual and academic group projects, 
+          I am passionate about developing innovative software solutions, 
+
+exploring emerging technologies, and continuously expanding my technical skills.
         </Typography>
 
         <Typography
