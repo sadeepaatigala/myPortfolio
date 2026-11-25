@@ -13,6 +13,12 @@ export default function Education() {
             subtitle="Sri Lanka Institute of Information Technology (SLIIT)"
             description="I am an IT Graduate, focusing on software development, database management, cloud computing, IoT, and system analysis. I am actively engaged in both theoretical learning and practical project development"
           />
+
+          <TimelineItem
+            title="G.C.E. Advanced Level"
+            subtitle="Physical Science Stream with ICT"
+            description="Mayurapada Central College, Narammala. <br> 2020. <br> ICT - C | Physics - S | Mathematics - S | General English - C"
+          />
       </Box>
     </Box>
   );

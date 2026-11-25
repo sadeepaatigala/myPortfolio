@@ -19,7 +19,7 @@ Gained hands-on experience in full-stack software development by working on real
            <TimelineItem
             title="Software Engineering Intern"
             subtitle="hSenid Business Solutions PLC"
-            description={<> <b>Software Engineering Intern - hSenid Business Solutions PLC | 6 Months </b> 
+            description={<> <b>Software Engineering Intern - hSenid Business Solutions PLC | 3 Months                </b>  
 Gained hands-on experience in enterprise software development by contributing to the development and maintenance of HR Information Systems (HRIS). Worked on developing and enhancing software features using C# and ASP.NET within an Agile (Scrum) environment. Participated in debugging, testing, and performance optimization to improve application quality and reliability. Collaborated with cross-functional teams throughout sprint planning, development, and code review processes while gaining practical experience in enterprise-level software engineering practices.</>}
            />
       </Box>
